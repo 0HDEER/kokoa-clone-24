@@ -8,11 +8,15 @@
 @import "components/user-component.css" ;
 @import "components/badge.css" ;
 @import "components/find.css" ;
+@import "components/icon-row.css" ;
+@import "components/alt-header.css" ;
 
 /* Screens */ 
 @import "screens/variable.css" ;
 @import "screens/login.css" ;
 @import "screens/friends.css" ;
+@import "screens/more.css" ;
+@import "screens/settings.css" ;
 
 body {
     color: #2e363e ;
